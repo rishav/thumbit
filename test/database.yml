@@ -1,0 +1,10 @@
+sqlite3:
+  :adapter: sqlite3
+  :database: thumbit_plugin.sqlite3.db
+
+mysql:
+    :adapter: mysql
+    :host: localhost
+    :username: root
+    :password:
+    :database: thumbit_plugin_test
